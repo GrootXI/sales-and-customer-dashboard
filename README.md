@@ -65,3 +65,11 @@ Top 10 Customers By Profit:
 # Data Filters:
 
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+
+
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm Md Amzad Hossain. Specialize in turning raw data into meaningful insights that help drive business decisions.
